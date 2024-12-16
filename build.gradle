@@ -6,7 +6,7 @@ plugins {
     id 'org.jlleitschuh.gradle.ktlint' version '12.1.2'
 }
 
-group = 'org.sol4k'
+group = 'com.winter2009'
 version = "$currentVersion"
 
 repositories {
